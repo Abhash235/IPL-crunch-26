@@ -16,3 +16,20 @@ Middle Overs
 Death Overs
 Who are the top 5 batters and bowlers across 5 IPL seasons?
 
+## Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Jupyter Notebook
+
+## Project Workflow
+1. Data Cleaning
+2. Toss Analysis
+3. Phase Analysis
+4. Top 5 Batters
+5. Top 5 Bowlers
+
+Author
+Abhash Behera
+Wooble IPL Analytics Hackathon 2026
